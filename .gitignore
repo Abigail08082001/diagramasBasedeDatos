@@ -1,0 +1,9 @@
+# Editor y sistema
+*.log
+*.swp
+*.swo
+*.DS_Store
+*.idea
+*.vscode
+*~
+Thumbs.db
